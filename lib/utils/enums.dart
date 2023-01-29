@@ -1,0 +1,4 @@
+enum QueryTypes {
+  text,
+  voice,
+}
